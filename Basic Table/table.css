@@ -1,0 +1,24 @@
+.heading{
+    background-color: rgba(10, 13, 235, 0.712);
+    color: white;
+}
+.row-color{
+    background-color: rgba(213, 191, 250, 0.329);
+}
+
+.table-responsive{
+        height: 450px;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+    
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(194, 192, 192);
+    border-radius: 10px;
+    
+}
+.myrow{
+    color: rgb(92, 92, 92);
+}
