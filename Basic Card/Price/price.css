@@ -1,0 +1,7 @@
+.price .money{
+    font-size: 40px;
+}
+.card:hover{
+    background-color: rgb(255, 51, 0);
+    color: white;
+}
